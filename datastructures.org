@@ -1,6 +1,6 @@
 * data structures
 1. linked lists
-like arrays, they are linear but elemnts are not stored in a continous way, they are linked using pointers
+like arrays, they are linear but elements are not stored in a continous way, they are linked using pointers
 the pointer tail of the LL is null
 maintaining a sorted array is difficult in the face of deletion and insertion
 
